@@ -24,7 +24,7 @@
 | # | Project | Services | Status |
 |---|---------|----------|--------|
 | 01 | [Static Website on S3 + CloudFront](https://github.com/dcprice79/project-01-s3-website) | S3 · CloudFront · ACM · IAM | ✅ Complete |
-| 02 | [EC2 with Linux OS + Remote Desktop](https://github.com/dcprice79/project-02-ec2-linux) | EC2 · Linux · RDP · CloudWatch · SNS | 🔄 In Progress |
+| 02 | [EC2 with Linux OS + Remote Desktop](https://github.com/dcprice79/project-02-ec2-linux) | EC2 · Linux · SSH · CloudWatch · SNS | ✅ Complete |
 | 03 | [IAM Security Configuration](./project-03-iam-security) | IAM · MFA · Policy Simulator | 📋 Planned |
 | 04 | [Custom VPC Network Architecture](./project-04-vpc) | VPC · Subnets · Route Tables · IGW | 📋 Planned |
 | 05 | [Linux on EC2 Lab](./project-05-linux-lab) | EC2 · Linux CLI · Bash · Nginx | 📋 Planned |

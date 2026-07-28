@@ -27,7 +27,7 @@
 | 02 | [EC2 with Linux OS + SSH Access](https://github.com/dcprice79/project-02-ec2-linux) | EC2 · Linux · SSH · CloudWatch · SNS | ✅ Complete |
 | 03 | [IAM Security Configuration](https://github.com/dcprice79/project-03-iam-security) | IAM · MFA · Policy Simulator | ✅ Complete |
 | 04 | [Custom VPC Network Architecture](https://github.com/dcprice79/project-04-vpc) | VPC · Subnets · Route Tables · IGW | ✅ Complete |
-| 05 | [Linux on EC2 Lab](./project-05-linux-lab) | EC2 · Linux CLI · Bash · Nginx | 📋 Planned |
+| 05 | [Linux on EC2 Lab](https://github.com/dcprice79/project-05-linux-lab) | EC2 · Linux CLI · Bash · Nginx | 🔄 In Progress |
 
 ---
 

@@ -55,7 +55,7 @@
 **9+ years of enterprise IT infrastructure experience** at Atrium Wake Forest Baptist Health — one of the largest healthcare systems in North Carolina.
 
 - 🏥 Managed enterprise-scale infrastructure across multiple clinical and administrative sites
-- 🔒 Led ransomware recovery and remediation at a regional medical center
+- 🔒 Participated in ransomware recovery and remediation at a regional medical center
 - 📦 Directed 2,000+ device deployments across Windows 11 migration and clinical rollouts
 - 📊 Developed and managed IT budgets and cost forecasts
 - 🎓 Mentored and trained IT staff across multiple medical centers

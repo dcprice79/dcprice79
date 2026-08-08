@@ -28,7 +28,7 @@
 | 03 | [IAM Security Configuration](https://github.com/dcprice79/project-03-iam-security) | IAM · MFA · Policy Simulator | ✅ Complete |
 | 04 | [Custom VPC Network Architecture](https://github.com/dcprice79/project-04-vpc) | VPC · Subnets · Route Tables · IGW | ✅ Complete |
 | 05 | [Linux on EC2 Lab](https://github.com/dcprice79/project-05-linux-EC2-lab) | EC2 · Linux CLI · Bash · Nginx | ✅ Complete |
-| 09 | [Deploy with CloudFormation](https://github.com/dcprice79/project-09-cloudformation)) | CloudFormation · IaC | 📋 Planned | ✅ Complete |
+| 09 | [Deploy with CloudFormation](https://github.com/dcprice79/project-09-cloudformation) | CloudFormation · IaC | 📋 Planned | ✅ Complete |
 
 ---
 

@@ -30,6 +30,7 @@
 | 05 | [Linux on EC2 Lab](https://github.com/dcprice79/project-05-linux-EC2-lab) | EC2 · Linux CLI · Bash · Nginx | ✅ Complete |
 | 09 | [Deploy with CloudFormation](https://github.com/dcprice79/project-09-cloudformation) | CloudFormation · IaC | ✅ Complete |
 | 11 | [Security Audit with Trusted Advisor, Security Hub, GuardDuty & IAM Analyzer](https://github.com/dcprice79/project-11-security-audit) | Trusted Advisor · Security Hub · GuardDuty · IAM Access Analyzer · Policy Simulator | ✅ Complete |
+| 17 | [Full Cost Optimization Audit](https://github.com/dcprice79/project-17-cost-optimization) | Cost Explorer · Compute Optimizer · AWS Budgets · CUR | ✅ Complete |
 
 ---
 

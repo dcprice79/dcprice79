@@ -14,7 +14,7 @@
 | CompTIA Security+ | CompTIA | ✅ Active |
 | CompTIA Network+ | CompTIA | ✅ Active |
 | CompTIA A+ | CompTIA | ✅ Active |
-| CCNA | Cisco | ✅ Active |
+| CCNA | Cisco | Previously held: Cisco CCNA (2013–2016) |
 | ITIL Foundations v3 | AXELOS | ✅ Active |
 
 ---

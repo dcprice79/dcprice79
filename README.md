@@ -24,7 +24,7 @@
 ## ☁️ AWS Portfolio Projects
 
 | # | Project | Services | Status |
-|---|---------|----------|---------|
+|---|---------|----------|----------|
 | 01 | [Static Website on S3 + CloudFront](https://github.com/dcprice79/project-01-s3-website) | S3 · CloudFront · ACM · IAM | ✅ Complete [Live site](https://d10kxon076mkn.cloudfront.net) |
 | 02 | [EC2 with Linux OS + SSH Access](https://github.com/dcprice79/project-02-ec2-linux) | EC2 · Linux · SSH · CloudWatch · SNS | ✅ Complete |
 | 03 | [IAM Security Configuration](https://github.com/dcprice79/project-03-iam-security) | IAM · MFA · Policy Simulator | ✅ Complete |

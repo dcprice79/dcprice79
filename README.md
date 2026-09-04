@@ -28,6 +28,7 @@
 | 03 | [IAM Security Configuration](https://github.com/dcprice79/project-03-iam-security) | IAM · MFA · Policy Simulator | ✅ Complete |
 | 04 | [Custom VPC Network Architecture](https://github.com/dcprice79/project-04-vpc) | VPC · Subnets · Route Tables · IGW | ✅ Complete |
 | 05 | [Linux on EC2 Lab](https://github.com/dcprice79/project-05-linux-EC2-lab) | EC2 · Linux CLI · Bash · Nginx | ✅ Complete |
+| 06 | [CloudFront CDN and HTTPS](https://github.com/dcprice79/project-06-cloudfront) | CloudFront · HTTPS · CDN · SSL · S3 | ✅ Complete |
 | 07 | [Serverless Contact Form](https://github.com/dcprice79/project-07-serverless-contact-form) | Lambda · API Gateway · SES · Python · boto3 | ✅ Complete |
 | 09 | [Deploy with CloudFormation](https://github.com/dcprice79/project-09-cloudformation) | CloudFormation · IaC | ✅ Complete |
 | 11 | [Security Audit with Trusted Advisor, Security Hub, GuardDuty & IAM Analyzer](https://github.com/dcprice79/project-11-security-audit) | Trusted Advisor · Security Hub · GuardDuty · IAM Access Analyzer · Policy Simulator | ✅ Complete |

@@ -25,12 +25,12 @@
 
 | # | Project | Services | Status |
 |---|---------|----------|--------|
-| 01 | [Static Website on S3 + CloudFront](https://github.com/dcprice79/project-01-s3-website) | S3 · CloudFront · ACM · IAM | ✅  [Live site](https://d10kxon076mkn.cloudfront.net) |
+| 01 | [Static Website on S3 + CloudFront](https://github.com/dcprice79/project-01-s3-website) | S3 · CloudFront · ACM · IAM | ✅  [Site](https://d10kxon076mkn.cloudfront.net) |
 | 02 | [EC2 with Linux OS + SSH Access](https://github.com/dcprice79/project-02-ec2-linux) | EC2 · Linux · SSH · CloudWatch · SNS | ✅  |
 | 03 | [IAM Security Configuration](https://github.com/dcprice79/project-03-iam-security) | IAM · MFA · Policy Simulator | ✅  |
 | 04 | [Custom VPC Network Architecture](https://github.com/dcprice79/project-04-vpc) | VPC · Subnets · Route Tables · IGW | ✅  |
 | 05 | [Linux on EC2 Lab](https://github.com/dcprice79/project-05-linux-EC2-lab) | EC2 · Linux CLI · Bash · Nginx | ✅  |
-| 06 | [CloudFront CDN and HTTPS](https://github.com/dcprice79/project-06-cloudfront) | CloudFront · HTTPS · CDN · SSL · S3 | ✅  [Live site](https://d10kxon076mkn.cloudfront.net) |
+| 06 | [CloudFront CDN and HTTPS](https://github.com/dcprice79/project-06-cloudfront) | CloudFront · HTTPS · CDN · SSL · S3 | ✅  [Site](https://d10kxon076mkn.cloudfront.net) |
 | 07 | [Serverless Contact Form](https://github.com/dcprice79/project-07-serverless-contact-form) | Lambda · API Gateway · SES · Python · boto3 | ✅ [Form](https://d10kxon076mkn.cloudfront.net/contact.html) |
 | 09 | [Deploy with CloudFormation](https://github.com/dcprice79/project-09-cloudformation) | CloudFormation · IaC | ✅  |
 | 11 | [Security Audit with Trusted Advisor, Security Hub, GuardDuty & IAM Analyzer](https://github.com/dcprice79/project-11-security-audit) | Trusted Advisor · Security Hub · GuardDuty · IAM Access Analyzer · Policy Simulator | ✅  |

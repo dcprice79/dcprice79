@@ -31,7 +31,7 @@
 | 04 | [Custom VPC Network Architecture](https://github.com/dcprice79/project-04-vpc) | VPC · Subnets · Route Tables · IGW | ✅  |
 | 05 | [Linux on EC2 Lab](https://github.com/dcprice79/project-05-linux-EC2-lab) | EC2 · Linux CLI · Bash · Nginx | ✅  |
 | 06 | [CloudFront CDN and HTTPS](https://github.com/dcprice79/project-06-cloudfront) | CloudFront · HTTPS · CDN · SSL · S3 | ✅  [Site](https://d10kxon076mkn.cloudfront.net) |
-| 07 | [Serverless Contact Form](https://github.com/dcprice79/project-07-serverless-contact-form) | Lambda · API Gateway · SES · Python · boto3 | ✅ [App](https://d10kxon076mkn.cloudfront.net/contact.html) |
+| 07 | [Serverless Contact Form](https://github.com/dcprice79/project-07-serverless-contact-form) | Lambda · API Gateway · SES · Python · boto3 | ✅ [Try](https://d10kxon076mkn.cloudfront.net/contact.html) |
 | 09 | [Deploy with CloudFormation](https://github.com/dcprice79/project-09-cloudformation) | CloudFormation · IaC | ✅  |
 | 11 | [Security Audit with Trusted Advisor, Security Hub, GuardDuty & IAM Analyzer](https://github.com/dcprice79/project-11-security-audit) | Trusted Advisor · Security Hub · GuardDuty · IAM Access Analyzer · Policy Simulator | ✅  |
 | 17 | [Full Cost Optimization Audit](https://github.com/dcprice79/project-17-cost-optimization) | Cost Explorer · Compute Optimizer · AWS Budgets · CUR | ✅  |

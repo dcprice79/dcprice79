@@ -34,6 +34,7 @@
 | 07 | [Serverless Contact Form](https://github.com/dcprice79/project-07-serverless-contact-form) | Lambda · API Gateway · SES · Python · boto3 | ✅ [Site](https://d10kxon076mkn.cloudfront.net/contact.html) |
 | 08 | [Three-Tier Web Architecture](https://github.com/dcprice79/project-08-three-tier-architecture) | VPC · EC2 · RDS · ALB · Security Groups | ✅ |
 | 09 | [Deploy with CloudFormation](https://github.com/dcprice79/project-09-cloudformation) | CloudFormation · IaC | ✅  |
+| 10 | [Auto Scaling and Load Balancing](https://github.com/dcprice79/project-10-auto-scaling-load-balancing) | EC2 · ALB · Auto Scaling · Launch Templates · VPC | ✅ |
 | 11 | [Security Audit with Trusted Advisor, Security Hub, GuardDuty & IAM Analyzer](https://github.com/dcprice79/project-11-security-audit) | Trusted Advisor · Security Hub · GuardDuty · IAM Access Analyzer · Policy Simulator | ✅  |
 | 17 | [Full Cost Optimization Audit](https://github.com/dcprice79/project-17-cost-optimization) | Cost Explorer · Compute Optimizer · AWS Budgets · CUR | ✅  |
 | 18 | [Terraform Infrastructure as Code on AWS](https://github.com/dcprice79/project-18-terraform) | Terraform | ✅  |

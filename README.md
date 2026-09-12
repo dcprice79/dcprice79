@@ -36,6 +36,7 @@
 | 09 | [Deploy with CloudFormation](https://github.com/dcprice79/project-09-cloudformation) | CloudFormation · IaC | ✅  |
 | 10 | [Auto Scaling and Load Balancing](https://github.com/dcprice79/project-10-auto-scaling-load-balancing) | EC2 · ALB · Auto Scaling · Launch Templates · VPC | ✅ |
 | 11 | [Security Audit with Trusted Advisor, Security Hub, GuardDuty & IAM Analyzer](https://github.com/dcprice79/project-11-security-audit) | Trusted Advisor · Security Hub · GuardDuty · IAM Access Analyzer · Policy Simulator | ✅  |
+| 12 | [S3 Data Pipeline](https://github.com/dcprice79/project-12-s3-data-pipeline) | S3 Events · Lambda · SNS · Python · boto3 | ✅ |
 | 17 | [Full Cost Optimization Audit](https://github.com/dcprice79/project-17-cost-optimization) | Cost Explorer · Compute Optimizer · AWS Budgets · CUR | ✅  |
 | 18 | [Terraform Infrastructure as Code on AWS](https://github.com/dcprice79/project-18-terraform) | Terraform | ✅  |
 

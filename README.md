@@ -65,7 +65,7 @@
 
 ## 💼 Professional Background
 
-**9+ years of enterprise IT infrastructure experience** at Atrium Wake Forest Baptist Health — one of the largest healthcare systems in North Carolina.
+**10 years of enterprise IT infrastructure experience** at Atrium Wake Forest Baptist Health — one of the largest healthcare systems in North Carolina.
 
 - 🏥 Managed enterprise-scale infrastructure across multiple clinical and administrative sites
 - 🔒 Participated in ransomware recovery and remediation at a regional medical center
